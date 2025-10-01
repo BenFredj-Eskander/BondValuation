@@ -52,7 +52,7 @@ BondValuation.Tests/
 
 ## How to run the unit tests 
 
-In the command prompt or Terminal, go the BondValuation directory: ```cd BondValuation ```
+In the command prompt or Terminal, go the BondValuation directory: ```cd BondValuation-main/BondValuation-main ```
 
 This command runs all the unit test: ```dotnet test ```
 
