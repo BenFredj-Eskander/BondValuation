@@ -6,11 +6,11 @@ This application runs in .NET 8, so make sure to have a .NET 8 SDK installed
 ## Instructions 
 Follow these instructions in order to download the "bond_valuation_output.csv" output file:
 
-Start by extracting the zipped file "BondValuation.zip", that will give you the folder/directory "BondValuation". 
+Start by extracting the zipped file "BondValuation-main.zip", that will give you the folder/directory "BondValuation-main". 
 
 Using the command prompt or Terminal, execute the following steps:
 
-1- Go to the BondValuation directory: ```cd BondValuation ```
+1- Go to the BondValuation directory: ```cd BondValuation-main ```
 
 2- Build the solution: ```dotnet build ```
 
