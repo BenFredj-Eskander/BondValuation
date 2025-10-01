@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\BondValuation.Core\BondValuation.Core.csproj" />
+        <ProjectReference Include="..\BondValuation.Services\BondValuation.Services.csproj" />
+    </ItemGroup>
+
+</Project>

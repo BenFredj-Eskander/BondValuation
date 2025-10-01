@@ -1,0 +1,17 @@
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Infrastructure.deps.json
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Infrastructure.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Infrastructure.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Core.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Services.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Core.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\bin\Debug\net8.0\BondValuation.Services.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.AssemblyInfo.cs
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValu.C83FDEB8.Up2Date
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\refint\BondValuation.Infrastructure.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\BondValuation.Infrastructure.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Infrastructure\obj\Debug\net8.0\ref\BondValuation.Infrastructure.dll

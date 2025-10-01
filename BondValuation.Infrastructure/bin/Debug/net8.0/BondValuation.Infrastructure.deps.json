@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BondValuation.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BondValuation.Core": "1.0.0",
+          "BondValuation.Services": "1.0.0"
+        },
+        "runtime": {
+          "BondValuation.Infrastructure.dll": {}
+        }
+      },
+      "BondValuation.Core/1.0.0": {
+        "runtime": {
+          "BondValuation.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BondValuation.Services/1.0.0": {
+        "dependencies": {
+          "BondValuation.Core": "1.0.0"
+        },
+        "runtime": {
+          "BondValuation.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BondValuation.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BondValuation.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BondValuation.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

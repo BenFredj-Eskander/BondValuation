@@ -1,0 +1,11 @@
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\bin\Debug\net8.0\BondValuation.Core.deps.json
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\bin\Debug\net8.0\BondValuation.Core.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\bin\Debug\net8.0\BondValuation.Core.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.AssemblyInfoInputs.cache
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.AssemblyInfo.cs
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.csproj.CoreCompileInputs.cache
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\refint\BondValuation.Core.dll
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\BondValuation.Core.pdb
+C:\Users\benfre\source\repos\BondValuation\BondValuation.Core\obj\Debug\net8.0\ref\BondValuation.Core.dll

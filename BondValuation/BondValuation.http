@@ -1,0 +1,6 @@
+@BondValuation_HostAddress = http://localhost:5035
+
+GET {{BondValuation_HostAddress}}/bondvaluation/
+Accept: application/json
+
+###

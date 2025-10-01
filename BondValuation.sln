@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondValuation.Api", "BondValuation\BondValuation.Api.csproj", "{CCBE507E-7407-470D-B868-85C048CD9CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondValuation.Core", "BondValuation.Core\BondValuation.Core.csproj", "{9CB743E1-434D-489F-B2A0-878AE46DF438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondValuation.Services", "BondValuation.Services\BondValuation.Services.csproj", "{DC3237DA-A2B6-4B70-8E7B-F599984B74F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondValuation.Infrastructure", "BondValuation.Infrastructure\BondValuation.Infrastructure.csproj", "{A065DADE-7044-4052-B215-73A910D3F143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BondValuation.Tests", "BondValuation.Tests\BondValuation.Tests.csproj", "{64B4C5FA-0F74-42F8-B1BC-0C48B425897B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		UnitTesting.md = UnitTesting.md
+		UserGuide.md = UserGuide.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBE507E-7407-470D-B868-85C048CD9CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE507E-7407-470D-B868-85C048CD9CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE507E-7407-470D-B868-85C048CD9CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE507E-7407-470D-B868-85C048CD9CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB743E1-434D-489F-B2A0-878AE46DF438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB743E1-434D-489F-B2A0-878AE46DF438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB743E1-434D-489F-B2A0-878AE46DF438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB743E1-434D-489F-B2A0-878AE46DF438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3237DA-A2B6-4B70-8E7B-F599984B74F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3237DA-A2B6-4B70-8E7B-F599984B74F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3237DA-A2B6-4B70-8E7B-F599984B74F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3237DA-A2B6-4B70-8E7B-F599984B74F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A065DADE-7044-4052-B215-73A910D3F143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A065DADE-7044-4052-B215-73A910D3F143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A065DADE-7044-4052-B215-73A910D3F143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A065DADE-7044-4052-B215-73A910D3F143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B4C5FA-0F74-42F8-B1BC-0C48B425897B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B4C5FA-0F74-42F8-B1BC-0C48B425897B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B4C5FA-0F74-42F8-B1BC-0C48B425897B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B4C5FA-0F74-42F8-B1BC-0C48B425897B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF01D95-2AA7-4269-8CAE-303C0E9368BA}
+	EndGlobalSection
+EndGlobal
